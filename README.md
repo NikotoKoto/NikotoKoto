@@ -1,41 +1,80 @@
 <h1 align="center">Salut, je suis Nicolas! 👋</h1>
 
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=58A6FF&width=435&lines=Développeur+Passionné;Amoureux+du+Code;Toujours+En+Apprentissage" alt="Typing SVG">
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
-</div>
+</p>
 
 ---
 
 ### 👨‍💻 À propos de moi
 
-- 💼 Je m'appelle **Niko** et j'ai **28 ans**.
-- ⌨️ Je suis développeur depuis **1 an**.
-- 🌱 Toujours en train d'apprendre et d'explorer de nouvelles technologies.
-- 🚀 Passionné par le développement web et les nouvelles technologies.
+<div align="center">
+  <p>💼 Je m'appelle <strong>Nicolas</strong> et j'ai <strong>28 ans</strong>.</p>
+  <p>⌨️ Je suis développeur depuis <strong>1 an</strong>.</p>
+  <p>🌱 Toujours en train d'apprendre et d'explorer de nouvelles technologies.</p>
+  <p>🚀 Passionné par le développement web et les nouvelles technologies.</p>
+</div>
 
 ---
 
-**Langages de Programmation:**
+### 🛠️ Compétences Techniques
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) ![4 étoiles](https://img.shields.io/badge/-★★★★☆-lightgrey)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) ![3 étoiles](https://img.shields.io/badge/-★★★☆☆-lightgrey)
-
-**Frameworks:**
-
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) ![4 étoiles](https://img.shields.io/badge/-★★★★☆-lightgrey)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) ![3 étoiles](https://img.shields.io/badge/-★★★☆☆-lightgrey)
-
-**Outils:**
-
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) ![4 étoiles](https://img.shields.io/badge/-★★★★☆-lightgrey)
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff) ![4 étoiles](https://img.shields.io/badge/-★★★★☆-lightgrey)
-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff) ![3 étoiles](https://img.shields.io/badge/-★★★☆☆-lightgrey)
-- ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=fff) ![3 étoiles](https://img.shields.io/badge/-★★★☆☆-lightgrey)
-
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Catégorie</th>
+        <th>Technologie</th>
+        <th>Maîtrise</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Langages de Programmation</td>
+        <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript Badge"></td>
+        <td>★★★★☆</td>
+      </tr>
+      <tr>
+        <td>Langages de Programmation</td>
+        <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"></td>
+        <td>★★★☆☆</td>
+      </tr>
+      <tr>
+        <td>Frameworks</td>
+        <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React Badge"></td>
+        <td>★★★★☆</td>
+      </tr>
+      <tr>
+        <td>Frameworks</td>
+        <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white" alt="Node.js Badge"></td>
+        <td>★★★☆☆</td>
+      </tr>
+      <tr>
+        <td>Outils</td>
+        <td><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge"></td>
+        <td>★★★★☆</td>
+      </tr>
+      <tr>
+        <td>Outils</td>
+        <td><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"></td>
+        <td>★★★★☆</td>
+      </tr>
+      <tr>
+        <td>Outils</td>
+        <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma Badge"></td>
+        <td>★★★☆☆</td>
+      </tr>
+      <tr>
+        <td>Outils</td>
+        <td><img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" alt="Trello Badge"></td>
+        <td>★★★☆☆</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ---
@@ -56,12 +95,4 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tonprofil" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff">
-  </a>
-  <a href="mailto:tonemail@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff">
-  </a>
-</p>
-
----
-
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2
