@@ -63,13 +63,3 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github.com/NikotoKoto/NikotoKoto/raw/output/github-contribution-grid-snake.svg" alt="snake"></p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200">
-</p>
