@@ -1,12 +1,12 @@
-<h1 align="center">Salut, je suis Niko! 👋</h1>
+<h1 align="center">Salut, je suis Nicolas! 👋</h1>
 
-<p align="center" justify-content="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=58A6FF&width=435&lines=Développeur+Passionné;Amoureux+du+Code;Toujours+En+Apprentissage" alt="Typing SVG">
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
-</p>
+</div>
 
 ---
 
