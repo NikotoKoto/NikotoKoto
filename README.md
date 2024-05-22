@@ -33,18 +33,18 @@
     <tbody>
       <tr>
         <td align="center">
-          <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000">
-          <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff">
+          <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000"></td>
+         <td><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff"></td>
         </td>
         <td align="center">
-          <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000">
-          <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff">
+          <td><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000"></td>
+          <td><img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff"></td>
         </td>
         <td align="center">
-          <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff">
-          <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff">
-           <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff">
-          <img src="https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=fff">
+          <td><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff"></td>
+          <td><img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff"></td>
+           <td><img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff"></td>
+          <td><img src="https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=fff"></td>
         </td>
       </tr>
     </tbody>
