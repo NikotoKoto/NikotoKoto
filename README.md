@@ -19,36 +19,23 @@
 
 ---
 
-### 🛠️ Compétences Techniques
+**Langages de Programmation:**
 
-<div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>Langages de Programmation</th>
-        <th>Frameworks</th>
-        <th>Outils</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-          <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000"></td>
-         <td><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff"></td>
-        </td>
-        <td align="center">
-          <td><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000"></td>
-          <td><img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff"></td>
-        </td>
-        <td align="center">
-          <td><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff"></td>
-          <td><img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff"></td>
-           <td><img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff"></td>
-          <td><img src="https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=fff"></td>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) ![4 étoiles](https://img.shields.io/badge/-★★★★☆-lightgrey)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) ![3 étoiles](https://img.shields.io/badge/-★★★☆☆-lightgrey)
+
+**Frameworks:**
+
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) ![4 étoiles](https://img.shields.io/badge/-★★★★☆-lightgrey)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) ![3 étoiles](https://img.shields.io/badge/-★★★☆☆-lightgrey)
+
+**Outils:**
+
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) ![4 étoiles](https://img.shields.io/badge/-★★★★☆-lightgrey)
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff) ![4 étoiles](https://img.shields.io/badge/-★★★★☆-lightgrey)
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff) ![3 étoiles](https://img.shields.io/badge/-★★★☆☆-lightgrey)
+- ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=fff) ![3 étoiles](https://img.shields.io/badge/-★★★☆☆-lightgrey)
+
 </div>
 
 ---
