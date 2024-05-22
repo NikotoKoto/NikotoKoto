@@ -1,7 +1,7 @@
 <h1 align="center">Salut, je suis Niko! 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=58A6FF&width=435&lines=Développeur+Passionné+qui+ne+cesse+de+progrésser;Amoureux+du+Code;Toujours+En+Apprentissage" alt="Typing SVG">
+<p align="center" justify-content="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=58A6FF&width=435&lines=Développeur+Passionné;Amoureux+du+Code;Toujours+En+Apprentissage" alt="Typing SVG">
 </p>
 
 <p align="center">
