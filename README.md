@@ -43,6 +43,8 @@
         <td align="center">
           <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff">
           <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff">
+           <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff">
+          <img src="https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=fff">
         </td>
       </tr>
     </tbody>
