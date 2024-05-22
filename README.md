@@ -1,7 +1,7 @@
 <h1 align="center">Salut, je suis Niko! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=58A6FF&width=435&lines=Développeur+Passionné;Amoureux+du+Code;Toujours+En+Apprentissage" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=58A6FF&width=435&lines=Développeur+Passionné+qui+ne+cesse+de+progrésser;Amoureux+du+Code;Toujours+En+Apprentissage" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -21,9 +21,33 @@
 
 ### 🛠️ Compétences Techniques
 
-- **Langages de Programmation**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000), ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-- **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000), ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-- **Outils**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff), ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Langages de Programmation</th>
+        <th>Frameworks</th>
+        <th>Outils</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000">
+          <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff">
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000">
+          <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff">
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff">
+          <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
