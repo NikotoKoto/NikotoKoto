@@ -8,6 +8,8 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
 </div>
 
+---
+
 ### 👨‍💻 À propos de moi
 
 - 💼 Je m'appelle **Niko** et j'ai **28 ans**.
