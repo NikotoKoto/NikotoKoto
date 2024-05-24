@@ -1,6 +1,6 @@
 
 
-<h1 class="header" align="center">Salut, je suis Nicolas! 👋</h1>
+<h1 class="header" align="center">Salut Salut Salut Salut Salut 👋</h1>
 
 <!-- Animated typing text -->
 <p align="center">
