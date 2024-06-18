@@ -4,7 +4,7 @@
 
 <!-- Animated typing text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=58A6FF&width=605&lines=Toujours+En+Apprentissage;" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=58A6FF&width=605&lines=Still+learning;" alt="Typing SVG">
 </p>
 
 <!-- Animated GIF -->
