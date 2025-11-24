@@ -1,111 +1,114 @@
-
-
-<h1 class="header" align="center">Salut Salut Salut Salut Salut 👋</h1>
-
-<!-- Animated typing text -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=58A6FF&width=800&lines=Still+learning+,+Work+in+progress;" alt="Typing SVG">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:58A6FF&height=180&section=header&text=Nicolas%20Floris&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- Animated GIF -->
+<h3 align="center">Full-Stack Developer — Java | Spring Boot | Angular</h3>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+clean%2C+scalable+and+modern+applications;Spring+Boot+%7C+Angular+%7C+PostgreSQL+%7C+Docker;Learning+every+day+%7C+Improving+every+week" />
 </p>
 
 ---
 
-### 🌟 À propos de moi
+## 👨‍💻 About Me
 
-<p align="center">
-  <em>"Le code est mon langage, la perfection mon objectif."</em>
-</p>
+Hi, I'm **Nicolas**, a **Full-Stack Developer** focused on building real-world applications using:
 
-<div align="center">
-  <p>💼 Je m'appelle <strong>Nicolas</strong> et j'ai <strong>28 ans</strong>.</p>
-  <p>⌨️ Je suis développeur depuis <strong>1 an</strong>.</p>
-  <p>🌱 Toujours en train d'apprendre et d'explorer de nouvelles technologies.</p>
-  <p>🚀 La perfection dans le développement web est mon objectif.</p>
-</div>
+- **Java 21 & Spring Boot 3**
+- **Angular 17–19 (Signals + RxJS)**
+- **PostgreSQL, Docker, CI/CD, WebSockets**
+- **Clean Architecture & Domain-Driven Design**
 
----
+I care about:
 
-### 🛠️ Compétences Techniques
-
-<div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>Catégorie</th>
-        <th>Technologie</th>
-        <th>Maîtrise</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Langages de Programmation</td>
-        <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript Badge"></td>
-        <td>★★★★☆</td>
-      </tr>
-      <tr>
-        <td>Langages de Programmation</td>
-        <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"></td>
-        <td>★★★☆☆</td>
-      </tr>
-      <tr>
-        <td>Frameworks</td>
-        <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React Badge"></td>
-        <td>★★★★☆</td>
-      </tr>
-      <tr>
-        <td>Frameworks</td>
-        <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white" alt="Node.js Badge"></td>
-        <td>★★★☆☆</td>
-      </tr>
-      <tr>
-        <td>Outils</td>
-        <td><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge"></td>
-        <td>★★★★☆</td>
-      </tr>
-      <tr>
-        <td>Outils</td>
-        <td><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"></td>
-        <td>★★★★☆</td>
-      </tr>
-      <tr>
-        <td>Outils</td>
-        <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma Badge"></td>
-        <td>★★★☆☆</td>
-      </tr>
-      <tr>
-        <td>Outils</td>
-        <td><img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" alt="Trello Badge"></td>
-        <td>★★★☆☆</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+- Writing clean, maintainable and testable code  
+- Designing scalable backend systems  
+- Applying modern Angular patterns  
+- Delivering production-ready features  
+- Constantly learning and improving
 
 ---
 
-### 📈 Statistiques GitHub
+## 🧰 Tech Expertise
+
+### **Backend**
+- Java 21 · Spring Boot 3 · Spring Security  
+- JWT Auth · Filters · Cookies  
+- JPA/Hibernate · PostgreSQL  
+- Hexagonal Architecture · DDD  
+- WebSockets (real-time applications)
+
+### **Frontend**
+- Angular 17–19 · Signals · RxJS  
+- Standalone Components  
+- TailwindCSS  
+- TypeScript
+
+### **DevOps & Tools**
+- Docker · Docker Compose  
+- GitHub Actions (CI/CD)  
+- Linux · Git  
+- Postman / Thunder Client  
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of my most representative, production-like projects:
+
+### 🔹 **Mini-CRM** — Spring Boot + Angular + JWT + Docker  
+Full-stack CRM with authentication, PostgreSQL, domain services, CI/CD and clean code.
+
+### 🔹 **Hexagonal E-Commerce (Flower Shop)**  
+Real backend with a full hexagonal architecture, domain logic, application layer, and admin access.
+
+### 🔹 **Library API**  
+A clean REST API demonstrating DTO mapping, service layer, repository pattern and JUnit testing.
+
+### 🔹 **Real-Time Chat** (Spring Boot + WebSockets + Angular)  
+Modern chat application with bi-directional communication and live messaging.
+
+👉 All professional apps are available in **[nikoto-apps](https://github.com/nikoto-apps)**  
+👉 Training & experiments in **[nikoto-learning](https://github.com/nikoto-learning)**  
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikotoKoto&show_icons=true&theme=radical" alt="Statistiques GitHub de Nicolas">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NikotoKoto&theme=radical" alt="Streak Stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NikotoKoto&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=NikotoKoto&theme=tokyonight" />
 </p>
 
 ---
 
-### 📫 Contact
+## 📈 Roadmap (Next Skills I'm Working On)
+
+- Advanced Spring Security (OAuth2, Multi-Tenancy, RBAC)
+- Advanced RxJS + custom operators  
+- Redis caching + performance optimization  
+- Kubernetes basics  
+- Kafka / event-driven architecture  
+- More automated testing (JUnit + Mockito + Cypress)
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tonprofil" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff">
+  <a href="[https://www.linkedin.com/in/TON-LINKEDIN](https://www.linkedin.com/in/nicolas-floris/)" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tonemail@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff">
+  <a href="mailto:floris.nicolas@outlook.fr">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <sub>💡 Always learning. Always building. Always improving.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0A66C2&height=120&section=footer" />
 </p>
